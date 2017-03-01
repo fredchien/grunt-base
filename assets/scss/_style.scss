@@ -1,0 +1,25 @@
+/*colors*/
+$Cinza: #f0f0f0;
+$Branco: white;
+
+$grid-width: 1000px;
+
+body{
+	margin: 0;
+	background: $Branco;  
+}
+
+.hold{
+	width: 100%;
+	padding: 15px;
+	background: $Cinza; 
+	margin: 0px auto; 
+}
+
+.title{
+	margin: 15px 0;
+	font-size: 32px;
+	font-family: Helvetiva, Arial;
+	text-align: center;
+	color: black;     
+}

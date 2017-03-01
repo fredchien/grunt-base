@@ -2,7 +2,7 @@
 # Created by https://www.gitignore.io/api/node,bower
 
 ### Bower ###
-bower_components/
+components/
 .bower-cache
 .bower-registry
 .bower-tmp
