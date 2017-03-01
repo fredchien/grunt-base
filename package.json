@@ -1,0 +1,25 @@
+{
+  "name": "base-grunt",
+  "version": "0.0.1",
+  "description": "Front-end with Grunt and Bower",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredchien/grunt-base.git"
+  },
+  "author": "Frederic Chien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredchien/grunt-base/issues"
+  },
+  "homepage": "https://github.com/fredchien/grunt-base#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}

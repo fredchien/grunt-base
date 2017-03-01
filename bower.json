@@ -1,0 +1,22 @@
+{
+  "name": "base-grunt",
+  "description": "Front-end with Grunt and Bower",
+  "main": "index.html",
+  "authors": [
+    "Frederic Chien"
+  ],
+  "license": "ISC",
+  "homepage": "http://www.fredericchien.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize-css": "^5.0.0",
+    "bootstrap": "^3.3.7",
+    "bootstrap-hover-dropdown": "^2.2.1"
+  }
+}
